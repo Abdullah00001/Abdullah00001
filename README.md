@@ -3,6 +3,24 @@
 ### 👨‍💻 About Me
 I'm a 22-year-old Computer Science student with a strong passion for software development and the tech world. My journey began with foundational languages like C and C++, which gave me a solid base in problem-solving. Over time, I’ve expanded my skills across the full-stack ecosystem, from front-end web development to backend server management, and I’m currently focused on the MERN stack.
 
+🎯 **2023 Goals**: Start programming, mastered fundamentals with C, start basic problem-solving (Done)  
+🎯 **2024 Goals**:  
+- Learn C++, Data Structures (DS), and Algorithms (Algo)  
+- Solve 500+ problems with DSA  
+- Learn Frontend (HTML, CSS, Bootstrap, Tailwind, JS, DOM manipulation) and integrate APIs  
+- Complete at least 4 projects with these technologies  
+- Learn SQL, MySQL for database management  
+- Learn Python for OOP and complete 3+ terminal-based projects with OOP principles  
+- Explore Django MVT and complete 3+ projects  
+- Explore DRF and complete 2 projects  
+- Deep dive into JavaScript  
+- Learn React and complete 3 practice projects to understand concepts  
+- Learn Node.js, Express, MongoDB, Mongoose to become a Backend Developer and complete 2 CRUD projects  
+- Learn Authentication with Node, Express, Mongoose and complete 2 backend projects  
+- Start a full-stack (MERN) long-term project for the resume and implement everything learned (Running)  
+- Start learning advanced Backend (Running)  
+- Start problem-solving again and recap DSA (Running)  
+
 ### 📚 My Journey in Programming
 
 - **Getting Started with Problem Solving:**  
