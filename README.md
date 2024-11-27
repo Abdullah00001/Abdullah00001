@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah!
 
 ### 👨‍💻 About Me
-I'm a 22-year-old Computer Science student with a strong passion for software development and the tech world. My journey began with foundational languages like C and C++, which gave me a solid base in problem-solving. Over time, I’ve expanded my skills across the full-stack ecosystem, from front-end web development to backend server management, and I’m currently focused on the MERN stack.
+I'm a 22-year-old Computer Science student deeply passionate about backend development and system design. My journey started with foundational languages like C and C++, which built a strong problem-solving mindset. Over time, I transitioned into full-stack development, but my true focus lies in backend technologies. I’m currently honing my skills in TypeScript, Node.js, and Express, with a strong emphasis on building scalable and efficient systems. My current learning path includes Docker, CI/CD, and deploying real-world applications, as I work toward becoming a backend software engineer
 
 ### 📚 My Journey in Programming
 
