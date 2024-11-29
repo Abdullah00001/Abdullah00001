@@ -1,11 +1,14 @@
-# 👋 Hi, I'm Abdullah Bin Omar Chowdhury
+# 👋 Hi, I'm Abdullah Bin Omar Chowdhury  
+### **Backend Developer | Bringing Ideas to Life with Node.js, TypeScript, Express & MongoDB**
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdullah00001&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah00001" /> 
 </p>
 
 ## 👨‍💻 About Me
-I'm a 22-year-old Computer Science student passionate about backend development and system design. Starting with C and C++, I built a strong foundation in problem-solving. Over time, I transitioned into full-stack development but found my true passion in backend technologies. I’m currently honing my skills in **TypeScript**, **Node.js**, and **Express**, with a strong focus on building scalable and efficient systems. My learning journey includes Docker, CI/CD, and deploying real-world applications as I work toward becoming a backend software engineer.
+I'm a 22-year-old Computer Science student and a passionate Backend Developer. I’m deeply immersed in exploring and mastering the backend world, with a focus on quality, efficiency, and continuous learning. 
+My goal is to play a significant role as a software engineer.
+I am an enthusiastic learner, continuously improving and eager to dive deeper into the backend world.Programming is not just a career for me—it’s a passion, and I’m obsessed with solving problems and building meaningful, high-quality systems. My journey is about constant growth, embracing challenges, and delivering impactful results. Coding isn't just what I do—it's what I love.
 
 ---
 
