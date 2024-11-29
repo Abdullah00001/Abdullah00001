@@ -1,50 +1,79 @@
-# 👋 Hi, I'm Abdullah!
+# 👋 Hi, I'm Abdullah Bin Omar Chowdhury
 
-### 👨‍💻 About Me
-I'm a 22-year-old Computer Science student deeply passionate about backend development and system design. My journey started with foundational languages like C and C++, which built a strong problem-solving mindset. Over time, I transitioned into full-stack development, but my true focus lies in backend technologies. I’m currently honing my skills in TypeScript, Node.js, and Express, with a strong emphasis on building scalable and efficient systems. My current learning path includes Docker, CI/CD, and deploying real-world applications, as I work toward becoming a backend software engineer
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abdullah00001&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah00001" /> 
+</p>
 
-### 📚 My Journey in Programming
+## 👨‍💻 About Me
+I'm a 22-year-old Computer Science student passionate about backend development and system design. Starting with C and C++, I built a strong foundation in problem-solving. Over time, I transitioned into full-stack development but found my true passion in backend technologies. I’m currently honing my skills in **TypeScript**, **Node.js**, and **Express**, with a strong focus on building scalable and efficient systems. My learning journey includes Docker, CI/CD, and deploying real-world applications as I work toward becoming a backend software engineer.
 
-- **Getting Started with Problem Solving:**  
-  My journey began with **C** and **C++**, solving countless challenges on competitive platforms like Codeforces, LeetCode, HackerRank, and CodeChef. This experience strengthened my foundation in programming and deepened my passion for the tech industry.
+---
 
-- **Diving into Data Structures and Algorithms:**  
-  To understand complex topics, I took on a range of problems on platforms such as Codeforces and LeetCode. Mastering **DSA** concepts allowed me to develop a well-rounded understanding of efficient programming techniques.
+## 📚 My Programming Journey
+
+- **Problem Solving:**  
+  My journey began with **C** and **C++**, solving challenges on platforms like **Codeforces**, **LeetCode**, **HackerRank**, and **CodeChef**. This experience strengthened my problem-solving skills and deepened my passion for the tech industry.
+
+- **Data Structures and Algorithms (DSA):**  
+  Mastering DSA concepts helped me develop efficient programming techniques by solving various problems on platforms like Codeforces and LeetCode.
 
 - **Front-End Development:**  
-  I started with **HTML** and **CSS** to build static web pages, later enhancing my skills with **Bootstrap** and **Tailwind CSS**. I applied these skills in various projects, creating responsive and visually appealing web designs.
+  Started with **HTML** and **CSS** and later explored **Bootstrap** and **Tailwind CSS** to build responsive web pages.
 
 - **JavaScript & DOM Manipulation:**  
-  Learning **JavaScript** and **DOM manipulation** opened up a whole new level of interactivity in my projects. Working with fake APIs, I could build dynamic user interfaces and practice real-world scenarios.
+  Learning **JavaScript** allowed me to create interactive web pages by working with APIs and practicing real-world scenarios.
 
 - **SQL and Database Management:**  
-  To manage data, I learned **SQL** and **MySQL**, providing me with the skills to design and work with relational databases.
+  Acquired skills in **SQL** and **MySQL**, enabling me to design and manage relational databases.
 
-- **Python and Object-Oriented Programming (OOP):**  
-  Learning **Python** allowed me to deepen my understanding of OOP principles. I developed command-line-based projects like Cinema Hall and Bank Management systems, applying Python and OOP to practical scenarios.
+- **Python & OOP:**  
+  Developed projects like Cinema Hall and Bank Management systems, applying **Python** and **OOP principles**.
 
-- **Exploring Django:**  
-  My journey with **Django** introduced me to the MVT architecture, allowing me to build structured applications like Library Management and Bank Management systems. While I found **Django** complex, the experience was invaluable in learning backend web development.
+- **Django:**  
+  Explored the **MVT architecture** and built structured applications, gaining valuable backend development experience.
 
-- **React and the MERN Stack:**  
-  I transitioned to **JavaScript** frameworks and libraries, starting with **React**. I then expanded to **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**, which led me to the full **MERN stack**. I now enjoy the versatility and synergy of the JavaScript ecosystem, building full-stack applications that seamlessly integrate both front-end and back-end.
-
-### ⚙️ Technologies & Tools
-
-- **Languages:** C, C++, JavaScript, Python, SQL
-- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, React
-- **Back-End:** Node.js, Express.js, Django
-- **Database:** MongoDB, MySQL
-- **Others:** Git, GitHub, REST APIs, MERN Stack, Mongoose
-
-### 🌱 Currently Learning
-I'm continually expanding my skills and staying up-to-date with the latest in web development and backend technologies. Right now, I’m focusing on deepening my understanding of the JavaScript ecosystem, exploring advanced topics in React, Node.js, and MongoDB.
+- **React & MERN Stack:**  
+  Transitioned to **React** and then the full **MERN stack** (MongoDB, Express.js, React, Node.js), enjoying the seamless integration of front-end and back-end technologies.
 
 ---
 
-### 💬 Let's Connect!
-I love discussing tech, programming challenges, and potential collaborations. Feel free to reach out through GitHub or LinkedIn to connect!
+## ⚙️ Technologies & Tools
+
+- **Languages:** C, C++, JavaScript, Python, SQL  
+- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, React  
+- **Back-End:** Node.js, Express.js, Django  
+- **Database:** MongoDB, MySQL  
+- **Others:** Git, GitHub, REST APIs, MERN Stack, Mongoose  
 
 ---
 
-Happy Coding! 😄
+## 🌱 Currently Learning
+I’m focusing on **TypeScript** and backend technologies, aiming to deepen my understanding of the JavaScript ecosystem and Docker.
+
+---
+
+## 💬 Let's Connect!
+- 📫 Email: **abdullahbinomarchowdhury02@gmail.com**
+
+### Social Profiles:
+<p align="left">
+  <a href="https://linkedin.com/in/dev-abdullah02" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/abdullahbinoma" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/agentofcodesea" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/abdullahbinomarchowdhury02" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah00001&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah00001" alt="GitHub Streak" /></p>
