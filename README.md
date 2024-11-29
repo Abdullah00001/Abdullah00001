@@ -7,8 +7,6 @@ I'm a 22-year-old Computer Science student and a passionate Backend Developer. I
 My goal is to play a significant role as a software engineer.
 I am an enthusiastic learner, continuously improving and eager to dive deeper into the backend world.Programming is not just a career for me—it’s a passion, and I’m obsessed with solving problems and building meaningful, high-quality systems. My journey is about constant growth, embracing challenges, and delivering impactful results. Coding isn't just what I do—it's what I love.
 
----
-
 # My Programming Journey 🚀
 
 - **Kickoff**:  
@@ -49,24 +47,55 @@ I am an enthusiastic learner, continuously improving and eager to dive deeper in
 - **Deep Dive into Backend and Current Position**:  
   With a clear career goal in mind, I set a path to achieve it. I began learning TypeScript and integrating it with Node, Express, and Mongoose, practicing how to apply TypeScript in real-world scenarios. Now, I continue to build on my backend expertise and move closer to my goal.  
 
----
 
-## ⚙️ Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** C, C++, JavaScript, Python, SQL  
-- **Front-End:** HTML, CSS, Bootstrap, Tailwind CSS, React  
-- **Back-End:** Node.js, Express.js, Django  
-- **Database:** MongoDB, MySQL  
-- **Others:** Git, GitHub, REST APIs, MERN Stack, Mongoose  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-00796B?style=for-the-badge&logo=django&logoColor=white)
 
----
-
-## 🌱 Currently Learning
-I’m focusing on **TypeScript** and backend technologies, aiming to deepen my understanding of the JavaScript ecosystem and Docker.
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah00001&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah00001" alt="GitHub Streak" /></p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah00001&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah00001)
+
+
+## 📬 Contact Me
+
+"**The best way to predict the future is to invent it.**" – Alan Kay
+
+Feel free to reach out to me through any of the platforms below!
+
+[![Email](https://img.shields.io/badge/Email-@abdullahbinomarchowdhury02@gmail.com-orange?style=flat&logo=gmail)](mailto:abdullahbinomarchowdhury02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40dev--abdullah02-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-abdullah02/)
+[![Discord](https://img.shields.io/badge/Discord-agentofsea_0.2-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/agentofsea_0.2)
