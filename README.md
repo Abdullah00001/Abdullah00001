@@ -66,27 +66,6 @@ I’m focusing on **TypeScript** and backend technologies, aiming to deepen my u
 
 ---
 
-## 💬 Let's Connect!
-- 📫 Email: **abdullahbinomarchowdhury02@gmail.com**
-
-### Social Profiles:
-<p align="left">
-  <a href="https://linkedin.com/in/dev-abdullah02" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/abdullahbinoma" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/agentofcodesea" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/abdullahbinomarchowdhury02" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah00001&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" /></p>
