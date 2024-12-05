@@ -54,7 +54,7 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah00001&show_icons=true&locale=en&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah00001&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en)
 
