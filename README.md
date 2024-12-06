@@ -84,6 +84,6 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
 
 Feel free to reach out to me through any of the platforms below!
 
-[![Email](https://img.shields.io/badge/Email-@abdullahbinomarchowdhury02@gmail.com-orange?style=flat&logo=gmail)](mailto:abdullahbinomarchowdhury02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-@abdullahbinomarchowdhury@gmail.com-orange?style=flat&logo=gmail)](mailto:abdullahbinomarchowdhury02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40dev--abdullah02-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-abdullah02/)
 [![Discord](https://img.shields.io/badge/Discord-agentofsea_0.2-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/agentofsea_0.2)
