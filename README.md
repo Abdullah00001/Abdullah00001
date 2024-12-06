@@ -54,12 +54,29 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
 
 ## 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah00001&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah00001)
-
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://github.com/abdullah00001">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah00001&theme=light&hide=glsl,python" />
+      </a>
+    </td>
+    <td>
+      <img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+    </td>
+  </tr>
+</table>
+ 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah00001" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ## 📬 Contact Me
 
