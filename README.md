@@ -74,7 +74,7 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
     </td>
     <td>
      
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah00001&theme=default)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=Abdullah00001" />
     </td>
   </tr>
 </table>
