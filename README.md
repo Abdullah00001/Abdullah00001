@@ -73,7 +73,7 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
       <img src="https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah00001" alt="GitHub Streak" />
+      <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah00001&theme=default)](https://git.io/streak-stats)" />
     </td>
   </tr>
 </table>
