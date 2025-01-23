@@ -74,7 +74,7 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
     </td>
     <td>
      
-  ![GitHub streak stats](https://streak-stats.demolab.com?user=abdullah00001)
+  <img src="https://streak-stats.demolab.com?user=abdullah00001" alt="GitHub streak stats">
 
   </td>
   </tr>
