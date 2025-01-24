@@ -66,20 +66,16 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
     </td>
   </tr>
 </table>
- 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" loading="lazy" />
     </td>
     <td>
-     
-  <a href="https://streak-stats.demolab.com?user=abdullah00001">
-    <img src="https://streak-stats.demolab.com?user=abdullah00001" alt="GitHub streak stats">
-</a>
-
-
-  </td>
+      <a href="https://github-readme-streak-stats.herokuapp.com?user=abdullah00001">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah00001" alt="GitHub streak stats" />
+      </a>
+    </td>
   </tr>
 </table>
 
