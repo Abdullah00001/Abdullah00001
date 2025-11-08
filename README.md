@@ -1,56 +1,52 @@
-# 👋 Hi, I'm Abdullah Bin Omar Chowdhury  
-## **Backend Developer | Bringing Ideas to Life with Node.js, TypeScript, Express & MongoDB**
-
-
-## 👨‍💻 About Me
-I'm a 22-year-old Computer Science student and a passionate Backend Developer. I’m deeply immersed in exploring and mastering the backend world, with a focus on quality, efficiency, and continuous learning. 
-My goal is to play a significant role as a software engineer.
-I am an enthusiastic learner, continuously improving and eager to dive deeper into the backend world.Programming is not just a career for me—it’s a passion, and I’m obsessed with solving problems and building meaningful, high-quality systems. My journey is about constant growth, embracing challenges, and delivering impactful results. Coding isn't just what I do—it's what I love.
-
-## My Programming Journey 🚀
-
-My programming journey began with a focus on mastering the fundamentals of **C**, which provided a solid foundation in problem-solving and algorithmic thinking. I honed my skills on competitive programming platforms like **Codeforces** and **HackerRank**, where I tackled increasingly complex challenges. To enhance my problem-solving efficiency and delve deeper into **Data Structures and Algorithms (DSA)**, I transitioned to **C++**, leveraging its cleaner syntax and extensive STL libraries. This phase sharpened my ability to solve advanced problems, including **graph traversal** and **dynamic programming**.
-
-Building on my programming expertise, I expanded into **web development**, starting with **HTML** and **CSS** to understand the fundamentals of website structure and styling. I further enhanced my skills by incorporating frameworks like **Bootstrap** and **Tailwind CSS** to create responsive, modern interfaces. As I progressed, I focused on **JavaScript**, exploring **ES6 features** and mastering **DOM manipulation** to build dynamic, interactive user experiences. My frontend journey culminated in learning **React**, where I developed interactive UIs and worked with APIs to simulate real-world applications.
-
-Eager to explore backend technologies, I transitioned to **Python** to strengthen my understanding of **Object-Oriented Programming (OOP)** principles. I complemented this with **SQL** and **MySQL**, acquiring the skills to design and manage databases efficiently. My backend exploration began with **Django** and the **Django REST Framework (DRF)**, where I built a small e-commerce API. However, my growing affinity for JavaScript led me to pivot towards **Node.js** and **Express**.
-
-In my backend development journey, I focused on building scalable APIs using **Node.js**, **Express**, and **MongoDB**. I successfully developed a full-stack **MERN** application, integrating features like **JWT-based authentication**, **role-based access control**, and secure password handling with **bcrypt**. This project demonstrated my ability to implement robust security measures and manage data flow effectively.
-
-To enhance code maintainability and scalability, I adopted **TypeScript**, integrating it into my Node.js projects. This shift improved type safety and streamlined my development process, allowing for better collaboration and more reliable applications. My current focus is on deepening my expertise in backend technologies, continuously building and refining projects that align with industry best practices.
-  
-
+### It's Abdullah Bin Omar Chowdhury  
+I'm a 22-year-old Computer Science student and a passionate, Backend-Focused FullStack Developer. I am deeply immersed in mastering the backend world, with a strong focus on building high-quality, efficient, and scalable systems. For me, programming isn't just a career—it's a passion. I thrive on solving complex problems, embracing challenges, and am committed to continuous learning to deliver impactful results and make a significant impact as a software engineer.
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Frontend Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-6366F1?style=for-the-badge&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logoColor=white)
+![Node-Cron](https://img.shields.io/badge/Node-cron-FF6347?style=for-the-badge&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-FF4500?style=for-the-badge&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-4DB33D?style=for-the-badge&logoColor=white)
 
+### Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools, Platforms & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0093DD?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -58,7 +54,7 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
   <tr>
     <td>
       <a href="https://github.com/abdullah00001">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah00001&theme=light&hide=glsl,python" />
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah00001&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" />
       </a>
     </td>
     <td>
@@ -72,9 +68,7 @@ To enhance code maintainability and scalability, I adopted **TypeScript**, integ
       <img src="https://github-readme-stats.vercel.app/api?username=Abdullah00001&show_icons=true&locale=en" alt="GitHub Stats" loading="lazy" />
     </td>
     <td>
-      <a href="https://github-readme-streak-stats.herokuapp.com?user=abdullah00001">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah00001" alt="GitHub streak stats" />
-      </a>
+           <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdullah00001&theme=light&hide_border=true" /> 
     </td>
   </tr>
 </table>
