@@ -3,25 +3,20 @@ I'm a 22-year-old Computer Science student and a passionate, Backend-Focused Ful
 
 ## 🛠️ Tech Stack
 
-### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-6366F1?style=for-the-badge&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
@@ -31,14 +26,10 @@ I'm a 22-year-old Computer Science student and a passionate, Backend-Focused Ful
 ![Node-Cron](https://img.shields.io/badge/Node-cron-FF6347?style=for-the-badge&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-FF4500?style=for-the-badge&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-4DB33D?style=for-the-badge&logoColor=white)
-
-### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools, Platforms & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -47,6 +38,38 @@ I'm a 22-year-old Computer Science student and a passionate, Backend-Focused Ful
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0093DD?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+---
+
+## 🚀 Featured Project: WorklyContacts
+
+This is my flagship project, a modern contact management system inspired by Google Contacts, with a heavy focus on security, session management, and robust backend architecture.
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
+
+**Key Features:**
+
+* **Secure Authentication:** Built with JWT (access & refresh tokens) and Google OAuth. 
+* **Multi-Device Session Control:** Actively tracks user sessions (max 3) with suspicious login detection.
+* **Advanced Security:** Implemented rate limiting, reCAPTCHA, account lockout, and email verification. 
+* **Full Account & Contact Management:** Includes a robust Account Center and a full CRUD dashboard for contacts with labels, favorites, import/export, and trash recovery.
+* **CI/CD Pipeline:** Fully containerized with Docker and deployed with CI/CD on Render (Backend) and Vercel (Frontend). 
+
+[![Live Link](https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://workly-contacts-client.vercel.app/)
+[![Client Repo](https://img.shields.io/badge/Client_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah00001/workly-contacts-client)
+[![Server Repo](https://img.shields.io/badge/Server_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah00001/workly-contacts-server)
+
+---
 
 ## 📊 GitHub Stats
 
